@@ -2802,6 +2802,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.4",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.4",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 6.0.4",
+      "Microsoft.EntityFrameworkCore >= 6.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.4",
@@ -2816,11 +2817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\C#\\Project\\FINSHARK2\\FINSHARK2\\FINSHARK2.csproj",
+      "projectUniqueName": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\FINSHARK2.csproj",
       "projectName": "FINSHARK2",
-      "projectPath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\FINSHARK2\\FINSHARK2.csproj",
+      "projectPath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\FINSHARK2.csproj",
       "packagesPath": "C:\\Users\\bqvp2\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\FINSHARK2\\obj\\",
+      "outputPath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bqvp2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2864,6 +2865,10 @@
             "version": "[6.0.4, )"
           },
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+            "target": "Package",
+            "version": "[6.0.4, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[6.0.4, )"
           },

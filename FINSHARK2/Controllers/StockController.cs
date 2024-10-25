@@ -4,6 +4,7 @@ using FINSHARK2.Helpers;
 using FINSHARK2.Interfaces;
 using FINSHARK2.Mapper;
 using FINSHARK2.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -26,6 +27,7 @@ namespace FINSHARK2.Controllers
 
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAllStock([FromQuery] QueryObject query)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
@@ -39,6 +41,8 @@ namespace FINSHARK2.Controllers
 
         [HttpGet]
         [Route("{id:int}")]
+        
+
         public async Task<IActionResult> GetStockById(int id)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);

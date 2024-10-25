@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|d:\\workspace\\c#\\project\\finshark2\\asp.net6-webapi\\finshark2\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|solutionrelative:finshark2\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|d:\\workspace\\c#\\project\\finshark2\\asp.net6-webapi\\finshark2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|solutionrelative:finshark2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|d:\\workspace\\c#\\project\\finshark2\\asp.net6-webapi\\finshark2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|solutionrelative:finshark2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|d:\\workspace\\c#\\project\\finshark2\\asp.net6-webapi\\finshark2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|solutionrelative:finshark2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|d:\\workspace\\c#\\project\\finshark2\\asp.net6-webapi\\finshark2\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D90B5-0C41-4227-92E7-4CDA4413EFE3}|FINSHARK2\\FINSHARK2.csproj|solutionrelative:finshark2\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FINSHARK2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FINSHARK2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:10:29.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "FINSHARK2\\Controllers\\StockController.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Controllers\\StockController.cs",
+              "RelativeToolTip": "FINSHARK2\\Controllers\\StockController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:06:13.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Program.cs",
+              "RelativeDocumentMoniker": "FINSHARK2\\Program.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Program.cs",
+              "RelativeToolTip": "FINSHARK2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:04:12.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FINSHARK2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FINSHARK2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:55:16.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\DTOs\\Account\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "FINSHARK2\\DTOs\\Account\\LoginDTO.cs",
+              "ToolTip": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\DTOs\\Account\\LoginDTO.cs",
+              "RelativeToolTip": "FINSHARK2\\DTOs\\Account\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:52:08.155Z",
+              "EditorCaption": ""
             }
           ]
         }

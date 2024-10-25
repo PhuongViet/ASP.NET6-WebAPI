@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PV1/AngNl2A=",
+  "dgSpecHash": "nC5bqLpQApQ=",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\FINSHARK2\\FINSHARK2.csproj",
+  "projectFilePath": "D:\\Workspace\\C#\\Project\\FINSHARK2\\ASP.NET6-WebAPI\\FINSHARK2\\FINSHARK2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bqvp2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bqvp2\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.4\\microsoft.aspnetcore.authentication.jwtbearer.6.0.4.nupkg.sha512",
